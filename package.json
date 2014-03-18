@@ -1,0 +1,19 @@
+{
+  "name": "tiqav.js",
+  "version": "0.1.0",
+  "description": "tiqav client for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "keywords": [
+    "tiqav",
+    "http",
+    "client"
+  ],
+  "author": "yosuke-furukawa",
+  "license": "MIT",
+  "dependencies": {
+    "string_tmpl": "~0.1.0"
+  }
+}
